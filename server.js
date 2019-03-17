@@ -48,11 +48,6 @@ for (let i = 0; i < 1000; i++) {
   downloadImg(i);
 }
 
-
-
-
-
-
 var server = app.listen(80, function () {
 
   var host = server.address().address
